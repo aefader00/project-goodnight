@@ -1,34 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>Project Goodnight</h1>
 
-## Getting Started
+<p>
+<b>This project is an attempt to put the "web" back into "webcomic" ...and to take the "comic" out.</b>
+</p>
 
-First, run the development server:
+<p>With the exception of webtoons, modern webcomics are often not much different than traditional comics.</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p>
+They follow the same rules and structure of traditional comics, and some are even designed with the hope of being printed and sold in
+stores. In practice, these are traditional comics that simply use the digital equivalents of analog tools to achieve similar results. There
+is nothing much "web" about them.
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p>
+Of course, there is nothing wrong with this approach. Artists have produced great works of art this way for decades, and will continue to do
+so.
+</p>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<p>
+However, there is room for innovation. While webcomics have more or less stagnated, browsers have become powerful engines for artists. It
+has never been easier to create and share pages featuring complex images, sound, video, or interactivity. There are many new opportunities
+for creative expression with modern browsers and the modern internet. Why shouldn’t webcomics make use of this new toolkit?
+</p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<p>
+In truth, I am not concerned with the evolution of the medium of comics, or webcomics for that matter. I am concerned with the evolution of
+art on the internet.
+</p>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<p>
+The internet is a canvas unlike any other in human history, and yet this fact is lost in the age of social media content. I hope to reignite
+a multimedia approach to netart, in opposition to the recent tendency for content to conform to the structure of old media. There is no
+practical reason for comics, novels, movies, and video games to be segregated into unique mediums on the internet. Project Goodnight is an
+attempt to prove that they can all peacefully coexist in the amorphous medium of netart.
+</p>
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p>
+It should be noted that the main purpose of this project is to act as a prototype of what kind of netart is possible using modern tools.
+While I have tried to make an interesting story, the narrative is not the true focus.
+</p>
+<p>
+It should also be noted that I am not under the impression that this project is truly innovative. All of the techniques utilized here have
+been utilized before, sometimes many decades ago. My hope is that the combination of these techniques into a cohesive whole will make their
+creative opportunities greater known for other artists to further innovate upon.
+</p>
+<p>
+It should finally be noted that this project is a work in progress! Seriously, it is in alpha right now. This description is meant to
+describe the theoretical groundwork this project is established on, not to describe what it embodies at this very moment.
+</p>
